@@ -1,2 +1,33 @@
-"This is where I will hopefully be writing my own HTML code for myself."
-"Lets see if i dont have to keep pushing the same url :/"
+<!DOCTYPE html>
+    <html>
+        <head>
+            <style>
+                div {
+                    width:60%;
+                    height:150px;
+                }
+            </style>
+
+            <title>My First HTML WEBSITE</title>
+
+        </head>
+
+        <body>
+
+            <h1>This is my first Header</h1>
+            <p>When I was a little boy I always like computers and I always played alot of computer game.</p>
+            <a href = "#exp">This is my gaming experience</a>
+            <a href = "#color">This is my favorite color</a>
+            <hr>
+            <h2>This is my second Header</h2>
+            <a href="http://www.google.com">This is a link to google</a>
+            <h3 id="exp">Gaming Experience</h3>
+            <p>I always played roblox on my free time and never really new what to do</p>
+            <a href = "https://www.roblox.com/home">This is a link to roblox.</a>
+            <div id = "color" style = "background-color:#0000A0"></div>
+            
+
+
+        </body>
+
+    </html>
